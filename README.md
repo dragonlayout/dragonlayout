@@ -103,8 +103,18 @@ This section is refreshed by GitHub Actions.
 以下内容由 GitHub Actions 定时刷新。
 
 <!--START_ACTIVITY-->
-- Activity refresh will appear here after the first workflow run.
-- 首次 workflow 运行后，这里会自动显示近期活动。
+Last refreshed: 2026-02-16 04:27 UTC
+最近刷新时间：2026-02-16 04:27 UTC
+
+### Recently Updated Repositories
+- [dragonlayout](https://github.com/dragonlayout/dragonlayout) - Python, updated 2026-02-14, stars 1
+- [h3c-inode-client](https://github.com/dragonlayout/h3c-inode-client) - Shell, updated 2024-11-23, stars 4
+- [homebrew-sshpass](https://github.com/dragonlayout/homebrew-sshpass) - Ruby, updated 2023-03-16, stars 4
+- [comprehensive-rust](https://github.com/dragonlayout/comprehensive-rust) - Rust, updated 2022-12-27, stars 1
+- [AUR-PKGBUILDS](https://github.com/dragonlayout/AUR-PKGBUILDS) - n/a, updated 2022-12-20, stars 1
+
+### Recent Public Activity
+- 2026-02-14: pushed 0 commit(s) to [dragonlayout/dragonlayout](https://github.com/dragonlayout/dragonlayout)
 <!--END_ACTIVITY-->
 
 ## Collaboration / 协作方向
